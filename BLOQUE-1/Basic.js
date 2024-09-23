@@ -27,20 +27,11 @@ age = 24;
 
 let textoEntero = `Soy ${firstName} ${lastName}, tengo ${age} años y me gustan los lobos.`;
 
+console.log(textoEntero);
 
 
 
 
 
 
-/*let nombre = 'Uma';
-let apellido = "Thurman";
-let edad = 7;
 
-let nombreCompleto = nombre + apellido; // UmaThurman
-
-/* string interpolation ---> con comilla `` podemos encapsular variables con diferentes tipos de dato 
-y formar frases con espacios y diferentes variables*/
-
-//let nombreCompletoEspacios = `Me llamo ${nombre} ${apellido} y tengo ${edad} años`;
-// Me llamo Uma Thurman y tengo 7 años --> string
