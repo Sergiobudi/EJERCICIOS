@@ -144,7 +144,7 @@ let borrado= rickAndMortyCharacters1.splice(1,1)
 
 //*console.log(rickAndMortyCharacters1)
 
-// EJERCICIO 5
+//? EJERCICIO 5
 
 //En base al código siguiente, muestra los mensajes correctos por consola//
 
@@ -183,7 +183,7 @@ if (number2 / number1 == 2){
   }
 
 
-// EJERCICIO 6
+//? EJERCICIO 6
 
 //1.1 Crea un bucle for que vaya desde 0 a 9 y muestralo por consola.//
 
